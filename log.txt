@@ -1,0 +1,25 @@
+03/19/16 --
+
+-x stop over origin
+  = object needs to know the origin of the target pos
+  = if traveling over the origin, then need to stop
+
+-x travel in one click
+  = keep track of tile clicked on
+  = keep checking if destination is reached
+  = if it isnt, keep going. if it is, stop moving
+
+-x grid setup to tiles
+
+- pathfinding
+
+
+03/20/16 --
+
+- grid as single plane
+
+- add texture
+
+- left click selects object
+
+- grid is hex?

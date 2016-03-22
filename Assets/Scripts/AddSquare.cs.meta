@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e5a704f1607b5940b9937b43d905650
+timeCreated: 1457994821
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - grassTile: {fileID: 5422932, guid: 931c2010e0d4f35489ef8e3ff0e2ec9b, type: 2}
+  - desertTile: {fileID: 5419152, guid: 40effb3c06f079747be4ba6458c5262f, type: 2}
+  - waterTile: {fileID: 5454978, guid: f4f9324148b5fb74884d5f7d6ffbe84f, type: 2}
+  - roadTile: {fileID: 5488982, guid: 588ad4f8b7c527140804bd91ebd25d19, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
